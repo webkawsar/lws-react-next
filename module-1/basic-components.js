@@ -10,5 +10,8 @@ components ki return kore?
 comonent theke ki return hoy?
 => jsx return hoy not HTML
 
+একটি রিয়্যাক্ট ওয়েবসাইট বানানোর মূল উপাদান কোনটি?
+=> mul upadan hochhe component
+
 
 */
